@@ -5,7 +5,7 @@ html {
 }
 table.styled {
   border-collapse: collapse;
-  text-align: left;
+  text-align: center;
   font-family: Avenir, Roboto, Heveltica, sans-serif; 
 }
 .styled th {
